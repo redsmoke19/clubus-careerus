@@ -53,11 +53,3 @@
   }
 }
 
-.no-transition {
-  /* stylelint-disable-next-line */
-  transition: none !important;
-}
-
-.js-focus-visible :focus:not(.focus-visible) {
-  outline: none;
-}
